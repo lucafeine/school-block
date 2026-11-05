@@ -4,6 +4,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/lucafeine/school-block)
 ![GitHub stars](https://img.shields.io/github/stars/lucafeine/school-block)
 [![Firefox Browser](https://img.shields.io/badge/Firefox-Add--on-red?logo=firefox-browser)](https://addons.mozilla.org/fr/firefox/addon/school-block/)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/dmjjmgmbaaepihcfholebljphknlpefo)
 
 [Version Française](./README-fr.md)
 
