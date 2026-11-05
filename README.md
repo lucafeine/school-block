@@ -1,8 +1,8 @@
 # School Block - Hide School Ads on Job Search Sites
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/spitzerl/school-block)
-![GitHub issues](https://img.shields.io/github/issues/spitzerl/school-block)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/spitzerl/school-block)
-![GitHub stars](https://img.shields.io/github/stars/spitzerl/school-block)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/lucafeine/school-block)
+![GitHub issues](https://img.shields.io/github/issues/lucafeine/school-block)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/lucafeine/school-block)
+![GitHub stars](https://img.shields.io/github/stars/lucafeine/school-block)
 [![Firefox Browser](https://img.shields.io/badge/Firefox-Add--on-red?logo=firefox-browser)](https://addons.mozilla.org/fr/firefox/addon/school-block/)
 
 [Version Française](./README-fr.md)
@@ -49,7 +49,7 @@ This project uses [Plasmo](https://docs.plasmo.com/), Node.js, and React.
 ### Steps
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/spitzerl/school-block.git](https://github.com/spitzerl/school-block.git)
+    git clone [https://github.com/lucafeine/school-block.git](https://github.com/lucafeine/school-block.git)
     cd school-block
     ```
 2.  **Install dependencies:**
